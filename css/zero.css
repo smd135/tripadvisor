@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: TripSans, sans-serif;
+    font-size: 14px;
+}
+a, a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+.f14 {
+    font-family: TripSans, sans-serif;
+    font-size: 14px;
+    line-height: 1rem;
+    font-weight: 700;
+}
+.f24 {
+    font-size: 24px;
+    font-weight: 700;
+}
+.f12 {
+    font-family: TripSans, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+}
+.fw7 {
+    font-weight: 700;
+}
+.fw5 {
+    font-weight: 500;
+}
+.fw3 {
+    font-weight: 300;
+}
+.f16 {
+    font-size: 16px;
+    font-weight: 700;
+}
+.f12 {
+    font-weight: 500;
+    font-size: 12px;
+}
+.f18 {
+    font-size: 18px;
+}
+.f10 {
+    font-size: 10px;
+}
+.f24 {
+    font-size: 24px;
+}
+.ma {
+    margin: 0 auto;
+}
+.tac {
+    text-align: center;
+}
+.tal {
+    text-align: left;
+}
+.flx {
+    display: flex;
+}
+.ac {
+    align-items: center;
+}
+.sb {
+    justify-content: space-between;
+}
+.vam {
+    vertical-align: middle;
+}
+.cnt {
+    max-width: 1136px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+}
